@@ -2,7 +2,7 @@
 
 
 This is a demo app to perform network calls in Android, 
-as taught on Session 5 on Android Acedemy's Funndamentals course on session 5.
+as taught on Session 5 on Android Academy's Fundamentals course on session 5.
 Slides can be found here: https://goo.gl/BNTjhV
 
 
@@ -22,4 +22,12 @@ In this project, check out how are the classes and repositories organized,
 to help you achieve a cleaner code. We'll discuss that later during the course, 
 and I'll add here some further explanation in a few days. 
 
+
+
+In the meantime: ask us anything on Slack or https://www.facebook.com/groups/android.academy.ils/
+
+
+
+
+See you next time! 😍
 
